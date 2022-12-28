@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=rvhnz1yBHgQ
 If you are only interested in the RSI bot:
 
 https://youtu.be/GdlFhF6gjKo
+
+forked
